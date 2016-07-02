@@ -57,7 +57,9 @@ Installing The Hypervisor
 
 ::
 
-  yum install libvirt python-virtinst
+  yum install libvirt python-virtinst 
+  
+  (or libvirt-python.x86_64 - CentOS7 from base repo) 
 
 KVM settings
 ~~~~~~~~~~~~
